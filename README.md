@@ -13,3 +13,11 @@ We are outputting forecasts early on. We expect the early forecasts to be crap, 
 4) We decide that the project looks reasonable and as a team finds more important things to forecast on. (pivot)
 
 As with most startup/volunteer projects, the base rate is that we will fail. Hopefully by publishing our initial artifacts and thoughts before we know the final outcome, we can help fight against reporting/survivorship/publication bias.
+
+Update Week 1: Lots of growing pains, but overall we nailed a process down so we hope to improve on future weeks.
+
+Update Week 2: The forecasts were very rushed for this week. We learned some lessons from last week, but overall less time was put on this week's forecasts, so we expect this week's forecasts to perform worse than last week's or the next week's.
+
+We evaluated last week's forecasts. We caught one glaring error (Georgia median) and a few minor ones, but overall things look reasonable (8/12 states in our 50% CI, 11/12 states in our 90% CI, mean absolute error not too bad). 
+
+We did our first internal evaluation. We currently plan to go forward with 8 states (rather than 12) for the last few weeks, so we can nail a process/high accuracy down, and scale only after we have internal and external confidence in our own accuracy.
