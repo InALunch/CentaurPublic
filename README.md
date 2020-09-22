@@ -21,3 +21,5 @@ Update Week 2: The forecasts were very rushed for this week. We learned some les
 We evaluated last week's forecasts. We caught one glaring error (Georgia median) and a few minor ones, but overall things look reasonable (8/12 states in our 50% CI, 11/12 states in our 90% CI, mean absolute error not too bad). 
 
 We did our first internal evaluation. We currently plan to go forward with 8 states (rather than 12) for the last few weeks, so we can nail a process/high accuracy down, and scale only after we have internal and external confidence in our own accuracy.
+
+Update Week 6: This week, only one of the forecasters could make it, so I expect the predictive accuracy to be worse than usual.
